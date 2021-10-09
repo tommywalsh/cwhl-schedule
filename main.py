@@ -103,13 +103,15 @@ def get_round_robin_pairs(all_teams, sitout_team_index, parity):
     for pair_index in range(0, num_pairs):
         team1_index = (sitout_team_index + pair_index + 1) % num_teams
         team2_index = (sitout_team_index - pair_index - 1) % num_teams
-        team1 = all_teams[team1_index]
-        team2 = all_teams[team2_index]
-        games.append(get_game_with_home_away_parity(team1, team2, parity))
+        game = get_game_with_home_away_parity(all_teams[team1_index], all_teams[team2_index], parity)
+        games.append(game)
     return games
 
 
 # Uses round-robin algorithm to generate a full slate of games for a "normal" week
+# week_num is used to choose which team from division 1 plays non-divisionally
+# division_offset is used to choose which team from division 2 plays non-divisionally
+# parity toggles the rules for which teams are home and away
 def generate_games_for_normal_week(week_num, division1, division2, division_offset, parity):
     teams_per_division = len(division1)
     assert(teams_per_division % 2 == 1)
@@ -118,15 +120,14 @@ def generate_games_for_normal_week(week_num, division1, division2, division_offs
     games = []
 
     # A normal week has one non-divisional game
-    wales_nondiv_index = week_num % teams_per_division
-    wales_nondiv = division1[wales_nondiv_index]
-    campbell_nondiv_index = (wales_nondiv_index + division_offset) % teams_per_division
-    campbell_nondiv = division2[campbell_nondiv_index]
-    games.append(get_game_with_home_away_parity(wales_nondiv, campbell_nondiv, parity))
+    team1_nondiv_index = week_num % teams_per_division
+    team2_nondiv_index = (team1_nondiv_index + division_offset) % teams_per_division
+    nondiv_game = get_game_with_home_away_parity(division1[team1_nondiv_index], division2[team2_nondiv_index], parity)
+    games.append(nondiv_game)
 
     # Each division also has their own in-division games.
-    games.extend(get_round_robin_pairs(division1, wales_nondiv_index, parity))
-    games.extend(get_round_robin_pairs(division2, campbell_nondiv_index, parity))
+    games.extend(get_round_robin_pairs(division1, team1_nondiv_index, parity))
+    games.extend(get_round_robin_pairs(division2, team2_nondiv_index, parity))
 
     return games
 
@@ -170,13 +171,13 @@ def generate_games_for_weird_week(week, division1, division2):
 
 def generate_all_weeks(divison1, division2):
 
-    # We want two weird weeks...
+    # We want two weird weeks (with the divisions being offset by 0 then 1)...
     all_weeks = [
         generate_games_for_weird_week(0, divison1, division2),
         generate_games_for_weird_week(1, divison1, division2)
     ]
 
-    # And three sets of five normal weeks (15 total)
+    # ...and three sets of five normal weeks, with the divisions offset by 2 then 3 then 4 in each set.
     for set_number in range(0, 3):
         # Flop the parity between sets, so that the second set's home/away is the opposite of the 1st and 3rd.
         parity = set_number % 2 == 1
