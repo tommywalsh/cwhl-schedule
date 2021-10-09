@@ -1,0 +1,299 @@
+Sanity check:
+Pleased: home: 9, in_div: 12, opps: 9; total 17
+Steamers: home: 8, in_div: 12, opps: 9; total 17
+Zaus: home: 9, in_div: 12, opps: 9; total 17
+Army: home: 8, in_div: 12, opps: 9; total 17
+Poachers: home: 9, in_div: 12, opps: 9; total 17
+Breakfast Kings: home: 8, in_div: 12, opps: 9; total 17
+Pants: home: 9, in_div: 12, opps: 9; total 17
+Loonies: home: 8, in_div: 12, opps: 9; total 17
+Cold Necks: home: 9, in_div: 12, opps: 9; total 17
+Magoons: home: 8, in_div: 12, opps: 9; total 17
+
+
+
+Weird Week #1
+  Steamers at Pleased
+  Army at Zaus
+  Breakfast Kings at Poachers
+  Loonies at Pants
+  Magoons at Cold Necks
+Weird Week #2
+  Zaus at Steamers
+  Poachers at Army
+  Pants at Breakfast Kings
+  Cold Necks at Loonies
+  Pleased at Magoons
+Normal Week #1
+  Steamers at Poachers
+  Army at Magoons
+  Breakfast Kings at Loonies
+  Pants at Zaus
+  Cold Necks at Pleased
+Normal Week #2
+  Army at Pants
+  Breakfast Kings at Steamers
+  Loonies at Magoons
+  Cold Necks at Poachers
+  Pleased at Zaus
+Normal Week #3
+  Breakfast Kings at Cold Necks
+  Loonies at Army
+  Magoons at Steamers
+  Pleased at Pants
+  Zaus at Poachers
+Normal Week #4
+  Loonies at Pleased
+  Magoons at Breakfast Kings
+  Steamers at Army
+  Zaus at Cold Necks
+  Poachers at Pants
+Normal Week #5
+  Magoons at Zaus
+  Steamers at Loonies
+  Army at Breakfast Kings
+  Poachers at Pleased
+  Pants at Cold Necks
+Normal Week #6
+  Pants at Steamers
+  Magoons at Army
+  Loonies at Breakfast Kings
+  Poachers at Cold Necks
+  Zaus at Pleased
+Normal Week #7
+  Cold Necks at Army
+  Steamers at Breakfast Kings
+  Magoons at Loonies
+  Pants at Pleased
+  Poachers at Zaus
+Normal Week #8
+  Pleased at Breakfast Kings
+  Army at Loonies
+  Steamers at Magoons
+  Cold Necks at Zaus
+  Pants at Poachers
+Normal Week #9
+  Zaus at Loonies
+  Breakfast Kings at Magoons
+  Army at Steamers
+  Pleased at Poachers
+  Cold Necks at Pants
+Normal Week #10
+  Poachers at Magoons
+  Loonies at Steamers
+  Breakfast Kings at Army
+  Zaus at Pants
+  Pleased at Cold Necks
+Normal Week #11
+  Steamers at Cold Necks
+  Army at Magoons
+  Breakfast Kings at Loonies
+  Pleased at Pants
+  Zaus at Poachers
+Normal Week #12
+  Army at Pleased
+  Breakfast Kings at Steamers
+  Loonies at Magoons
+  Zaus at Cold Necks
+  Poachers at Pants
+Normal Week #13
+  Breakfast Kings at Zaus
+  Loonies at Army
+  Magoons at Steamers
+  Poachers at Pleased
+  Pants at Cold Necks
+Normal Week #14
+  Loonies at Poachers
+  Magoons at Breakfast Kings
+  Steamers at Army
+  Pants at Zaus
+  Cold Necks at Pleased
+Normal Week #15
+  Magoons at Pants
+  Steamers at Loonies
+  Army at Breakfast Kings
+  Cold Necks at Poachers
+  Pleased at Zaus
+
+
+
+##### Steamers #####
+  Weird Week #1: Steamers at Pleased
+  Weird Week #2: Zaus at Steamers
+  Normal Week #1: Steamers at Poachers
+  Normal Week #2: Breakfast Kings at Steamers
+  Normal Week #3: Magoons at Steamers
+  Normal Week #4: Steamers at Army
+  Normal Week #5: Steamers at Loonies
+  Normal Week #6: Pants at Steamers
+  Normal Week #7: Steamers at Breakfast Kings
+  Normal Week #8: Steamers at Magoons
+  Normal Week #9: Army at Steamers
+  Normal Week #10: Loonies at Steamers
+  Normal Week #11: Steamers at Cold Necks
+  Normal Week #12: Breakfast Kings at Steamers
+  Normal Week #13: Magoons at Steamers
+  Normal Week #14: Steamers at Army
+  Normal Week #15: Steamers at Loonies
+##### Army #####
+  Weird Week #1: Army at Zaus
+  Weird Week #2: Poachers at Army
+  Normal Week #1: Army at Magoons
+  Normal Week #2: Army at Pants
+  Normal Week #3: Loonies at Army
+  Normal Week #4: Steamers at Army
+  Normal Week #5: Army at Breakfast Kings
+  Normal Week #6: Magoons at Army
+  Normal Week #7: Cold Necks at Army
+  Normal Week #8: Army at Loonies
+  Normal Week #9: Army at Steamers
+  Normal Week #10: Breakfast Kings at Army
+  Normal Week #11: Army at Magoons
+  Normal Week #12: Army at Pleased
+  Normal Week #13: Loonies at Army
+  Normal Week #14: Steamers at Army
+  Normal Week #15: Army at Breakfast Kings
+##### Breakfast Kings #####
+  Weird Week #1: Breakfast Kings at Poachers
+  Weird Week #2: Pants at Breakfast Kings
+  Normal Week #1: Breakfast Kings at Loonies
+  Normal Week #2: Breakfast Kings at Steamers
+  Normal Week #3: Breakfast Kings at Cold Necks
+  Normal Week #4: Magoons at Breakfast Kings
+  Normal Week #5: Army at Breakfast Kings
+  Normal Week #6: Loonies at Breakfast Kings
+  Normal Week #7: Steamers at Breakfast Kings
+  Normal Week #8: Pleased at Breakfast Kings
+  Normal Week #9: Breakfast Kings at Magoons
+  Normal Week #10: Breakfast Kings at Army
+  Normal Week #11: Breakfast Kings at Loonies
+  Normal Week #12: Breakfast Kings at Steamers
+  Normal Week #13: Breakfast Kings at Zaus
+  Normal Week #14: Magoons at Breakfast Kings
+  Normal Week #15: Army at Breakfast Kings
+##### Loonies #####
+  Weird Week #1: Loonies at Pants
+  Weird Week #2: Cold Necks at Loonies
+  Normal Week #1: Breakfast Kings at Loonies
+  Normal Week #2: Loonies at Magoons
+  Normal Week #3: Loonies at Army
+  Normal Week #4: Loonies at Pleased
+  Normal Week #5: Steamers at Loonies
+  Normal Week #6: Loonies at Breakfast Kings
+  Normal Week #7: Magoons at Loonies
+  Normal Week #8: Army at Loonies
+  Normal Week #9: Zaus at Loonies
+  Normal Week #10: Loonies at Steamers
+  Normal Week #11: Breakfast Kings at Loonies
+  Normal Week #12: Loonies at Magoons
+  Normal Week #13: Loonies at Army
+  Normal Week #14: Loonies at Poachers
+  Normal Week #15: Steamers at Loonies
+##### Magoons #####
+  Weird Week #1: Magoons at Cold Necks
+  Weird Week #2: Pleased at Magoons
+  Normal Week #1: Army at Magoons
+  Normal Week #2: Loonies at Magoons
+  Normal Week #3: Magoons at Steamers
+  Normal Week #4: Magoons at Breakfast Kings
+  Normal Week #5: Magoons at Zaus
+  Normal Week #6: Magoons at Army
+  Normal Week #7: Magoons at Loonies
+  Normal Week #8: Steamers at Magoons
+  Normal Week #9: Breakfast Kings at Magoons
+  Normal Week #10: Poachers at Magoons
+  Normal Week #11: Army at Magoons
+  Normal Week #12: Loonies at Magoons
+  Normal Week #13: Magoons at Steamers
+  Normal Week #14: Magoons at Breakfast Kings
+  Normal Week #15: Magoons at Pants
+##### Pleased #####
+  Weird Week #1: Steamers at Pleased
+  Weird Week #2: Pleased at Magoons
+  Normal Week #1: Cold Necks at Pleased
+  Normal Week #2: Pleased at Zaus
+  Normal Week #3: Pleased at Pants
+  Normal Week #4: Loonies at Pleased
+  Normal Week #5: Poachers at Pleased
+  Normal Week #6: Zaus at Pleased
+  Normal Week #7: Pants at Pleased
+  Normal Week #8: Pleased at Breakfast Kings
+  Normal Week #9: Pleased at Poachers
+  Normal Week #10: Pleased at Cold Necks
+  Normal Week #11: Pleased at Pants
+  Normal Week #12: Army at Pleased
+  Normal Week #13: Poachers at Pleased
+  Normal Week #14: Cold Necks at Pleased
+  Normal Week #15: Pleased at Zaus
+##### Zaus #####
+  Weird Week #1: Army at Zaus
+  Weird Week #2: Zaus at Steamers
+  Normal Week #1: Pants at Zaus
+  Normal Week #2: Pleased at Zaus
+  Normal Week #3: Zaus at Poachers
+  Normal Week #4: Zaus at Cold Necks
+  Normal Week #5: Magoons at Zaus
+  Normal Week #6: Zaus at Pleased
+  Normal Week #7: Poachers at Zaus
+  Normal Week #8: Cold Necks at Zaus
+  Normal Week #9: Zaus at Loonies
+  Normal Week #10: Zaus at Pants
+  Normal Week #11: Zaus at Poachers
+  Normal Week #12: Zaus at Cold Necks
+  Normal Week #13: Breakfast Kings at Zaus
+  Normal Week #14: Pants at Zaus
+  Normal Week #15: Pleased at Zaus
+##### Poachers #####
+  Weird Week #1: Breakfast Kings at Poachers
+  Weird Week #2: Poachers at Army
+  Normal Week #1: Steamers at Poachers
+  Normal Week #2: Cold Necks at Poachers
+  Normal Week #3: Zaus at Poachers
+  Normal Week #4: Poachers at Pants
+  Normal Week #5: Poachers at Pleased
+  Normal Week #6: Poachers at Cold Necks
+  Normal Week #7: Poachers at Zaus
+  Normal Week #8: Pants at Poachers
+  Normal Week #9: Pleased at Poachers
+  Normal Week #10: Poachers at Magoons
+  Normal Week #11: Zaus at Poachers
+  Normal Week #12: Poachers at Pants
+  Normal Week #13: Poachers at Pleased
+  Normal Week #14: Loonies at Poachers
+  Normal Week #15: Cold Necks at Poachers
+##### Pants #####
+  Weird Week #1: Loonies at Pants
+  Weird Week #2: Pants at Breakfast Kings
+  Normal Week #1: Pants at Zaus
+  Normal Week #2: Army at Pants
+  Normal Week #3: Pleased at Pants
+  Normal Week #4: Poachers at Pants
+  Normal Week #5: Pants at Cold Necks
+  Normal Week #6: Pants at Steamers
+  Normal Week #7: Pants at Pleased
+  Normal Week #8: Pants at Poachers
+  Normal Week #9: Cold Necks at Pants
+  Normal Week #10: Zaus at Pants
+  Normal Week #11: Pleased at Pants
+  Normal Week #12: Poachers at Pants
+  Normal Week #13: Pants at Cold Necks
+  Normal Week #14: Pants at Zaus
+  Normal Week #15: Magoons at Pants
+##### Cold Necks #####
+  Weird Week #1: Magoons at Cold Necks
+  Weird Week #2: Cold Necks at Loonies
+  Normal Week #1: Cold Necks at Pleased
+  Normal Week #2: Cold Necks at Poachers
+  Normal Week #3: Breakfast Kings at Cold Necks
+  Normal Week #4: Zaus at Cold Necks
+  Normal Week #5: Pants at Cold Necks
+  Normal Week #6: Poachers at Cold Necks
+  Normal Week #7: Cold Necks at Army
+  Normal Week #8: Cold Necks at Zaus
+  Normal Week #9: Cold Necks at Pants
+  Normal Week #10: Pleased at Cold Necks
+  Normal Week #11: Steamers at Cold Necks
+  Normal Week #12: Zaus at Cold Necks
+  Normal Week #13: Pants at Cold Necks
+  Normal Week #14: Cold Necks at Pleased
+  Normal Week #15: Cold Necks at Poachers
