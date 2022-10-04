@@ -1,0 +1,286 @@
+
+Non-Divisional Week #1
+  Steamers at Pants
+  Army at Breakfast
+  Cold Necks at Loonies
+  Pleased at Zaus
+  Magoons at Poachers
+Non-Divisional Week #2
+  Breakfast at Steamers
+  Loonies at Army
+  Zaus at Cold Necks
+  Poachers at Pleased
+  Pants at Magoons
+Hybrid Week #1
+  Steamers at Loonies
+  Army at Magoons
+  Cold Necks at Pleased
+  Zaus at Breakfast
+  Poachers at Pants
+Hybrid Week #2
+  Army at Zaus
+  Cold Necks at Steamers
+  Pleased at Magoons
+  Poachers at Loonies
+  Pants at Breakfast
+Hybrid Week #3
+  Cold Necks at Poachers
+  Pleased at Army
+  Magoons at Steamers
+  Pants at Zaus
+  Breakfast at Loonies
+Hybrid Week #4
+  Pleased at Pants
+  Magoons at Cold Necks
+  Steamers at Army
+  Breakfast at Poachers
+  Loonies at Zaus
+Hybrid Week #5
+  Magoons at Breakfast
+  Steamers at Pleased
+  Army at Cold Necks
+  Loonies at Pants
+  Zaus at Poachers
+Hybrid Week #6
+  Zaus at Steamers
+  Magoons at Army
+  Pleased at Cold Necks
+  Loonies at Poachers
+  Breakfast at Pants
+Hybrid Week #7
+  Poachers at Army
+  Steamers at Cold Necks
+  Magoons at Pleased
+  Zaus at Pants
+  Loonies at Breakfast
+Hybrid Week #8
+  Pants at Cold Necks
+  Army at Pleased
+  Steamers at Magoons
+  Poachers at Breakfast
+  Zaus at Loonies
+Hybrid Week #9
+  Breakfast at Pleased
+  Cold Necks at Magoons
+  Army at Steamers
+  Pants at Loonies
+  Poachers at Zaus
+Hybrid Week #10
+  Loonies at Magoons
+  Pleased at Steamers
+  Cold Necks at Army
+  Breakfast at Zaus
+  Pants at Poachers
+Hybrid Week #11
+  Steamers at Poachers
+  Army at Magoons
+  Cold Necks at Pleased
+  Pants at Zaus
+  Breakfast at Loonies
+Hybrid Week #12
+  Army at Pants
+  Cold Necks at Steamers
+  Pleased at Magoons
+  Breakfast at Poachers
+  Loonies at Zaus
+Hybrid Week #13
+  Cold Necks at Breakfast
+  Pleased at Army
+  Magoons at Steamers
+  Loonies at Pants
+  Zaus at Poachers
+Hybrid Week #14
+  Pleased at Loonies
+  Magoons at Cold Necks
+  Steamers at Army
+  Zaus at Breakfast
+  Poachers at Pants
+Hybrid Week #15
+  Magoons at Zaus
+  Steamers at Pleased
+  Army at Cold Necks
+  Poachers at Loonies
+  Pants at Breakfast
+
+
+
+##### Steamers #####
+  Non-Divisional Week #1: Steamers at Pants
+  Non-Divisional Week #2: Breakfast at Steamers
+  Hybrid Week #1: Steamers at Loonies
+  Hybrid Week #2: Cold Necks at Steamers
+  Hybrid Week #3: Magoons at Steamers
+  Hybrid Week #4: Steamers at Army
+  Hybrid Week #5: Steamers at Pleased
+  Hybrid Week #6: Zaus at Steamers
+  Hybrid Week #7: Steamers at Cold Necks
+  Hybrid Week #8: Steamers at Magoons
+  Hybrid Week #9: Army at Steamers
+  Hybrid Week #10: Pleased at Steamers
+  Hybrid Week #11: Steamers at Poachers
+  Hybrid Week #12: Cold Necks at Steamers
+  Hybrid Week #13: Magoons at Steamers
+  Hybrid Week #14: Steamers at Army
+  Hybrid Week #15: Steamers at Pleased
+##### Army #####
+  Non-Divisional Week #1: Army at Breakfast
+  Non-Divisional Week #2: Loonies at Army
+  Hybrid Week #1: Army at Magoons
+  Hybrid Week #2: Army at Zaus
+  Hybrid Week #3: Pleased at Army
+  Hybrid Week #4: Steamers at Army
+  Hybrid Week #5: Army at Cold Necks
+  Hybrid Week #6: Magoons at Army
+  Hybrid Week #7: Poachers at Army
+  Hybrid Week #8: Army at Pleased
+  Hybrid Week #9: Army at Steamers
+  Hybrid Week #10: Cold Necks at Army
+  Hybrid Week #11: Army at Magoons
+  Hybrid Week #12: Army at Pants
+  Hybrid Week #13: Pleased at Army
+  Hybrid Week #14: Steamers at Army
+  Hybrid Week #15: Army at Cold Necks
+##### Cold Necks #####
+  Non-Divisional Week #1: Cold Necks at Loonies
+  Non-Divisional Week #2: Zaus at Cold Necks
+  Hybrid Week #1: Cold Necks at Pleased
+  Hybrid Week #2: Cold Necks at Steamers
+  Hybrid Week #3: Cold Necks at Poachers
+  Hybrid Week #4: Magoons at Cold Necks
+  Hybrid Week #5: Army at Cold Necks
+  Hybrid Week #6: Pleased at Cold Necks
+  Hybrid Week #7: Steamers at Cold Necks
+  Hybrid Week #8: Pants at Cold Necks
+  Hybrid Week #9: Cold Necks at Magoons
+  Hybrid Week #10: Cold Necks at Army
+  Hybrid Week #11: Cold Necks at Pleased
+  Hybrid Week #12: Cold Necks at Steamers
+  Hybrid Week #13: Cold Necks at Breakfast
+  Hybrid Week #14: Magoons at Cold Necks
+  Hybrid Week #15: Army at Cold Necks
+##### Pleased #####
+  Non-Divisional Week #1: Pleased at Zaus
+  Non-Divisional Week #2: Poachers at Pleased
+  Hybrid Week #1: Cold Necks at Pleased
+  Hybrid Week #2: Pleased at Magoons
+  Hybrid Week #3: Pleased at Army
+  Hybrid Week #4: Pleased at Pants
+  Hybrid Week #5: Steamers at Pleased
+  Hybrid Week #6: Pleased at Cold Necks
+  Hybrid Week #7: Magoons at Pleased
+  Hybrid Week #8: Army at Pleased
+  Hybrid Week #9: Breakfast at Pleased
+  Hybrid Week #10: Pleased at Steamers
+  Hybrid Week #11: Cold Necks at Pleased
+  Hybrid Week #12: Pleased at Magoons
+  Hybrid Week #13: Pleased at Army
+  Hybrid Week #14: Pleased at Loonies
+  Hybrid Week #15: Steamers at Pleased
+##### Magoons #####
+  Non-Divisional Week #1: Magoons at Poachers
+  Non-Divisional Week #2: Pants at Magoons
+  Hybrid Week #1: Army at Magoons
+  Hybrid Week #2: Pleased at Magoons
+  Hybrid Week #3: Magoons at Steamers
+  Hybrid Week #4: Magoons at Cold Necks
+  Hybrid Week #5: Magoons at Breakfast
+  Hybrid Week #6: Magoons at Army
+  Hybrid Week #7: Magoons at Pleased
+  Hybrid Week #8: Steamers at Magoons
+  Hybrid Week #9: Cold Necks at Magoons
+  Hybrid Week #10: Loonies at Magoons
+  Hybrid Week #11: Army at Magoons
+  Hybrid Week #12: Pleased at Magoons
+  Hybrid Week #13: Magoons at Steamers
+  Hybrid Week #14: Magoons at Cold Necks
+  Hybrid Week #15: Magoons at Zaus
+##### Pants #####
+  Non-Divisional Week #1: Steamers at Pants
+  Non-Divisional Week #2: Pants at Magoons
+  Hybrid Week #1: Poachers at Pants
+  Hybrid Week #2: Pants at Breakfast
+  Hybrid Week #3: Pants at Zaus
+  Hybrid Week #4: Pleased at Pants
+  Hybrid Week #5: Loonies at Pants
+  Hybrid Week #6: Breakfast at Pants
+  Hybrid Week #7: Zaus at Pants
+  Hybrid Week #8: Pants at Cold Necks
+  Hybrid Week #9: Pants at Loonies
+  Hybrid Week #10: Pants at Poachers
+  Hybrid Week #11: Pants at Zaus
+  Hybrid Week #12: Army at Pants
+  Hybrid Week #13: Loonies at Pants
+  Hybrid Week #14: Poachers at Pants
+  Hybrid Week #15: Pants at Breakfast
+##### Breakfast #####
+  Non-Divisional Week #1: Army at Breakfast
+  Non-Divisional Week #2: Breakfast at Steamers
+  Hybrid Week #1: Zaus at Breakfast
+  Hybrid Week #2: Pants at Breakfast
+  Hybrid Week #3: Breakfast at Loonies
+  Hybrid Week #4: Breakfast at Poachers
+  Hybrid Week #5: Magoons at Breakfast
+  Hybrid Week #6: Breakfast at Pants
+  Hybrid Week #7: Loonies at Breakfast
+  Hybrid Week #8: Poachers at Breakfast
+  Hybrid Week #9: Breakfast at Pleased
+  Hybrid Week #10: Breakfast at Zaus
+  Hybrid Week #11: Breakfast at Loonies
+  Hybrid Week #12: Breakfast at Poachers
+  Hybrid Week #13: Cold Necks at Breakfast
+  Hybrid Week #14: Zaus at Breakfast
+  Hybrid Week #15: Pants at Breakfast
+##### Loonies #####
+  Non-Divisional Week #1: Cold Necks at Loonies
+  Non-Divisional Week #2: Loonies at Army
+  Hybrid Week #1: Steamers at Loonies
+  Hybrid Week #2: Poachers at Loonies
+  Hybrid Week #3: Breakfast at Loonies
+  Hybrid Week #4: Loonies at Zaus
+  Hybrid Week #5: Loonies at Pants
+  Hybrid Week #6: Loonies at Poachers
+  Hybrid Week #7: Loonies at Breakfast
+  Hybrid Week #8: Zaus at Loonies
+  Hybrid Week #9: Pants at Loonies
+  Hybrid Week #10: Loonies at Magoons
+  Hybrid Week #11: Breakfast at Loonies
+  Hybrid Week #12: Loonies at Zaus
+  Hybrid Week #13: Loonies at Pants
+  Hybrid Week #14: Pleased at Loonies
+  Hybrid Week #15: Poachers at Loonies
+##### Zaus #####
+  Non-Divisional Week #1: Pleased at Zaus
+  Non-Divisional Week #2: Zaus at Cold Necks
+  Hybrid Week #1: Zaus at Breakfast
+  Hybrid Week #2: Army at Zaus
+  Hybrid Week #3: Pants at Zaus
+  Hybrid Week #4: Loonies at Zaus
+  Hybrid Week #5: Zaus at Poachers
+  Hybrid Week #6: Zaus at Steamers
+  Hybrid Week #7: Zaus at Pants
+  Hybrid Week #8: Zaus at Loonies
+  Hybrid Week #9: Poachers at Zaus
+  Hybrid Week #10: Breakfast at Zaus
+  Hybrid Week #11: Pants at Zaus
+  Hybrid Week #12: Loonies at Zaus
+  Hybrid Week #13: Zaus at Poachers
+  Hybrid Week #14: Zaus at Breakfast
+  Hybrid Week #15: Magoons at Zaus
+##### Poachers #####
+  Non-Divisional Week #1: Magoons at Poachers
+  Non-Divisional Week #2: Poachers at Pleased
+  Hybrid Week #1: Poachers at Pants
+  Hybrid Week #2: Poachers at Loonies
+  Hybrid Week #3: Cold Necks at Poachers
+  Hybrid Week #4: Breakfast at Poachers
+  Hybrid Week #5: Zaus at Poachers
+  Hybrid Week #6: Loonies at Poachers
+  Hybrid Week #7: Poachers at Army
+  Hybrid Week #8: Poachers at Breakfast
+  Hybrid Week #9: Poachers at Zaus
+  Hybrid Week #10: Pants at Poachers
+  Hybrid Week #11: Steamers at Poachers
+  Hybrid Week #12: Breakfast at Poachers
+  Hybrid Week #13: Zaus at Poachers
+  Hybrid Week #14: Poachers at Pants
+  Hybrid Week #15: Poachers at Loonies
