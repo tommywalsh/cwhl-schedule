@@ -1,3 +1,4 @@
+# Full team names, as they appear on the CWHL site
 CS = "Cleveland Steamers"
 EP = "Eternally Pleased"
 KK = "Kentucky Koldnecks"

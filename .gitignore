@@ -1,3 +1,5 @@
 CWHL_CREDENTIALS.json
 matchups.json
 .idea
+__pycache__
+
