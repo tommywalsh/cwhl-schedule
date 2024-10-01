@@ -15,7 +15,7 @@
 # - Imagine five team captains (named A B C D and E) sitting at a round table, in that order.
 # - Each period we assign games like so:
 #   - One team is chosen to play a non-division team.  The first period, this is team A.
-#   - The first in-division game has the teams immediately to the left and right of the chosen team (1st period: B and E)
+#   - The first in-division game has the teams immediately to the left and right of the chosen team (1st: B and E)
 #   - The remaining two teams also play an in-division game (first period: C and D)
 # - Each following period, the chosen team changes.
 #   - So the second period has (C vs A) and (D vs E), then (B vs D) and (A vs E), and so on.
@@ -36,13 +36,14 @@ import teams
 import json
 
 # League-specific data, changes every year
-wales = [teams.CS, teams.RA, teams.KK, teams.EP, teams.MM]
-campbell = [teams.PP, teams.SBK, teams.LL, teams.NZ, teams.SMEP]
+wales = [teams.CS, teams.RA, teams.NZ, teams.SMEP, teams.MM]
+campbell = [teams.PP, teams.SBK, teams.LL, teams.KK, teams.EP]
 
 # Two periods are interdivisional. We try to keep these during any non-standard portions of the NHL schedule (e.g.
 # all-star game, olympics).  So, this can change each year.
 # Note that "0" here means "1st period", 1 means "2nd period" and so on
 interdivisional_periods = [0, 16]
+
 
 # Convenience class representing one single game
 class Game:
@@ -176,12 +177,6 @@ def generate_games_for_nondiv_period(period, division1, division2):
 
 def generate_all_periods(divison1, division2):
 
-    # We want two non-divisional periods (with the divisions being offset by 0 then 1)...
-    all_periods = [
-        generate_games_for_nondiv_period(0, divison1, division2),
-        generate_games_for_nondiv_period(1, divison1, division2)
-    ]
-
     # Start with three sets of five hybrid periods, with the divisions offset by 2 then 3 then 4 in each set.
     all_periods = []
     for set_number in range(0, 3):
@@ -230,6 +225,7 @@ def write_matchups_file(all_periods):
             "home": game.home,
             "away": game.away
         }
+
     def period_data(period):
         return [game_data(game) for game in period["games"]]
 
@@ -238,8 +234,6 @@ def write_matchups_file(all_periods):
 
     with open("matchups.json", "w") as file:
         file.write(file_contents)
-
-
 
 
 def main(division1, division2):
