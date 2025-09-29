@@ -21,7 +21,7 @@ fantasy game happens).  This is typically going to follow rules similar to the f
 3) Some code will need to be modified to handle any changes to team names, which teams are in which divisions, 
 number of teams, which periods are "special", and so on.
   - Inside `teams.py`, change team names as necessary (if any teams have had their names changed since last year)
-  - Inside `teams.py`, change the `interdivisional_periods` to reflect this year's schedule
+  - Inside `generate_schedule.py`, change the `interdivisional_periods` to reflect this year's schedule
   - Inside `generate_schedule.py`, update the `wales` and `campbell` arrays to match this year's conference makeups.
 
 4) The `generate_schedule.py` script should be run. This will generate the period-to-period "matchups" (in other words, which 

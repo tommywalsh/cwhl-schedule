@@ -36,13 +36,13 @@ import teams
 import json
 
 # League-specific data, changes every year
-wales = [teams.CS, teams.RA, teams.NZ, teams.SMEP, teams.MM]
-campbell = [teams.PP, teams.SBK, teams.LL, teams.KK, teams.EP]
+wales = [teams.CS, teams.SBK, teams.NZ, teams.KK, teams.PP]
+campbell = [teams.RA, teams.SMEP, teams.LL, teams.MM, teams.EP]
 
 # Two periods are interdivisional. We try to keep these during any non-standard portions of the NHL schedule (e.g.
 # all-star game, olympics).  So, this can change each year.
 # Note that "0" here means "1st period", 1 means "2nd period" and so on
-interdivisional_periods = [0, 16]
+interdivisional_periods = [15, 16]
 
 
 # Convenience class representing one single game
@@ -176,6 +176,11 @@ def generate_games_for_nondiv_period(period, division1, division2):
 
 
 def generate_all_periods(divison1, division2):
+
+    # The schedule logic assumes 2 interdivisional periods. We can't change this without also
+    # changing our rules for how many in-division and out-of-division games each team has,
+    # and that means changing the code.
+    assert len(interdivisional_periods) == 2
 
     # Start with three sets of five hybrid periods, with the divisions offset by 2 then 3 then 4 in each set.
     all_periods = []
